@@ -27,7 +27,8 @@ Disease is necessary for every farmer so we are created Plant disease detection 
 * Roadmap: Share project plans and goals.
 * Version Control: Define your version control strategy.
 * Responsiveness: Be prompt and respectful in responding to issues and pull requests.
-By following these steps, you can create an open-source environment that encourages and supports contributions from developers.
+By following these steps, you can create an open-source environment that encourages and supports contributions from the developers.
+
 
 
 ## Testing Images
